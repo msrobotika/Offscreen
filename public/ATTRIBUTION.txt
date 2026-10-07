@@ -1,0 +1,13 @@
+OFFSCREEN — CREDITS
+
+Photo: Daniel Gomez on Unsplash
+https://unsplash.com/photos/ferns-bask-in-dappled-sunlight-in-a-forest-FCVMPabu16w
+Unsplash License: https://unsplash.com/license
+
+Model: Xenova/all-MiniLM-L6-v2
+https://huggingface.co/Xenova/all-MiniLM-L6-v2
+Revision: 751bff37182d3f1213fa05d7196b954e230abad9
+Apache-2.0 license. Derived from sentence-transformers/all-MiniLM-L6-v2.
+Runtime: @huggingface/transformers 3.8.1, Apache-2.0.
+Icons: Lucide, ISC License.
+Product code and original mission catalogue: MS ROBOTIKA, MIT License.
