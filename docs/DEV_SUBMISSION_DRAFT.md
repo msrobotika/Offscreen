@@ -4,7 +4,7 @@ published: false
 tags: devchallenge, hf26challenge
 ---
 
-> Submission draft. Before publishing: confirm a judge-accessible demo or video. The review deployment is private until sharing is changed. This article has not been submitted.
+*This is a submission for the [Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass](https://dev.to/challenges/hacktoberfest-week1-2026-10-05).*
 
 ## What I Built
 
@@ -16,9 +16,7 @@ The scope is deliberately small: 18 curated missions, no feed, no streak, no req
 
 ## Demo
 
-**Review deployment:** https://offscreen-field.msarobotika.chatgpt.site
-
-This address is initially owner-private. Confirm public judge access, or replace this section with a public demo/video before submitting.
+**Public live demo:** https://offscreen-field.msarobotika.chatgpt.site
 
 To try the AI: leave the default English prompt, choose a park and 10 minutes, and press **Make my pocket card**. The first run downloads an open model and its runtime. A label distinguishes the initial sample card from an actual model result.
 
