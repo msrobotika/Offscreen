@@ -1,0 +1,24 @@
+name: Offscreen · pure ranking regression
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  ranking:
+    name: Unit tests (no model download)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate ranking source
+        run: |
+          node --check public/ai/rank.mjs
+          node --test tests/*.test.mjs
+      - name: Declare boundary
+        run: echo 'Pure ranking tests only. No browser, model download, build or production deployment verified.'
