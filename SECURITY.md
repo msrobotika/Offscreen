@@ -1,20 +1,9 @@
-# Política de seguridad — Offscreen
+# Política de seguridad · Offscreen
 
-## Notificación responsable
+Proyecto experimental. Envía incidencias de seguridad al mantenedor por un canal privado; no publiques credenciales, dumps reales, datos de usuarios o imágenes que identifiquen equipos ajenos.
 
-Para un problema de seguridad real, utiliza **Report a vulnerability** en la pestaña Security del repositorio **si esa función está habilitada**. No publiques pruebas de explotación, claves, datos personales ni rutas internas en issues públicos. Si el canal privado de GitHub no está habilitado, abre un issue sin detalles sensibles solicitando un canal de contacto seguro al mantenedor.
+**Límite específico:** No registrar ideas personales o datos sensibles en capturas y logs.
 
-Por favor, describe versión/commit, plataforma, impacto, pasos mínimos y correcciones posibles. No se garantizan plazos de respuesta ni programas de recompensas.
+El modelo y el runtime se descargan de proveedores externos; no se afirma funcionamiento web totalmente offline.
 
-## Alcance y precauciones
-
-**Alcance:** prototipo de software, no servicio garantizado ni dispositivo certificado. No exponer datos privados, material propietario, tokens o claves. Documentar de forma verificable el origen y limitaciones de cualquier resultado.
-
-- Revisa dependencias, paquetes, archivos de configuración y datos antes de subir cambios.
-- La visibilidad pública del código no garantiza licencia de redistribución de datos, pesos o modelos.
-- Una CI aprobada muestra únicamente que pasan sus comprobaciones declaradas, no una certificación de seguridad.
-- Nunca incluir secretos, credenciales o datos de terceras personas en incidencias, capturas o exportaciones públicas.
-
-## Versiones
-
-El soporte depende de las versiones mantenidas en este repositorio. Los prototipos anteriores y las versiones de desarrollo pueden carecer de actualizaciones de seguridad; no se presume soporte continuado.
+No se considera apto para decisiones críticas o recuperación de dispositivos sin pruebas independientes.

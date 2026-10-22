@@ -1,5 +1,10 @@
 # Offscreen
 
+> **Ficha del proyecto · MS ROBOTIKA**  
+> **Estado:** Prototipo web con modelo de embeddings descargado al inicio · **Licencia:** [LICENSE](LICENSE)  
+> [Estado técnico y evidencias](docs/PROJECT_STATUS.md) · [Abrir una incidencia](https://github.com/msrobotika/Offscreen/issues/new/choose)  
+> **Límite:** El modelo y el runtime se descargan de proveedores externos; no se afirma funcionamiento web totalmente offline.
+
 Three small outdoor missions, selected by an open embedding model on your device. Built by MS ROBOTIKA for the Hacktoberfest Open-Source AI Challenge, Week 1 (Touch Grass), starting 6 October 2026.
 
 ## Try it
