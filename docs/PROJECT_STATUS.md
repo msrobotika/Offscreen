@@ -1,12 +1,12 @@
 # Offscreen · Estado técnico
 
-**Revisión:** 2026-10-22 · **Estado:** Prototipo web con modelo de embeddings descargado al inicio.
+**Revisión:** 2026-10-23 · **Estado:** Prototipo web con modelo de embeddings descargado al inicio.
 
 ## Evidencias
 
 - Código y README versionados en main.
 - Licencia disponible en archivo LICENSE.
-- **CI en main:** no se detectó un workflow de integración continua en el inventario.
+- **CI en main:** disponibles [workflow de pruebas](../.github/workflows/ci.yml) y [workflow de calidad documental](../.github/workflows/repository-quality.yml). La CI no certifica el modelo ni su funcionamiento en todos los navegadores.
 - **Imágenes:** sin capturas UI verificadas.
 - **Procedencia:** No hay una captura UI verificada en main; la fotografía public/field.jpg no se presenta como screenshot.
 
