@@ -1,3 +1,7 @@
+[![MS ROBOTIKA · Offscreen](https://raw.githubusercontent.com/msrobotika/msrobotika/main/assets/projects/offscreen.svg)](https://github.com/msrobotika/msrobotika/blob/main/PROJECTS.md)
+
+[MS ROBOTIKA](https://github.com/msrobotika/msrobotika/blob/main/PROJECTS.md) · [AB Suite](https://github.com/msrobotika/AB-Suite-Core-arquitectura-de-integraci-n) · [Contribuir / Contribute](CONTRIBUTING.md) · [Seguridad / Security](SECURITY.md)
+
 # Offscreen
 
 > **Ficha del proyecto · MS ROBOTIKA**  
@@ -6,6 +10,8 @@
 > **Límite:** El modelo y el runtime se descargan de proveedores externos; no se afirma funcionamiento web totalmente offline.
 
 Three small outdoor missions, selected by an open embedding model on your device. Built by MS ROBOTIKA for the Hacktoberfest Open-Source AI Challenge, Week 1 (Touch Grass), starting 6 October 2026.
+
+**En español:** escribe una idea en inglés, elige el tiempo y el entorno, y genera tres pequeñas actividades al aire libre. Imprime o descarga la tarjeta. El modelo se descarga en el primer uso; la interfaz actual está en inglés. [Ejecución local](#run-locally).
 
 ## Try it
 
